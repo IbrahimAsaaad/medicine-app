@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218795944226",
+    "project_id": "firebasa-medicine",
+    "storage_bucket": "firebasa-medicine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218795944226:android:e62330e4e55219dd8fdd7b",
+        "android_client_info": {
+          "package_name": "com.example.medicine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAzcau1FACT2oU0HO_rN5ExoiSDce66AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
